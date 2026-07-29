@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/c00985798725464d9b669ea0777c20f2/artifacts
+end_time: 1783952190613
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: c00985798725464d9b669ea0777c20f2
+run_name: zealous-penguin-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952187631
+status: 3
+tags: []
+user_id: sheri

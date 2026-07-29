@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/5ab9e9853b684b9b8be0935487abb48a/artifacts
+end_time: 1784587509870
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 5ab9e9853b684b9b8be0935487abb48a
+run_name: abundant-skunk-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784587506368
+status: 3
+tags: []
+user_id: sheri

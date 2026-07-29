@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/b9a9c903879a4a5ea556a5f96257e47e/artifacts
+end_time: 1783952208614
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: b9a9c903879a4a5ea556a5f96257e47e
+run_name: languid-quail-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952200743
+status: 3
+tags: []
+user_id: sheri

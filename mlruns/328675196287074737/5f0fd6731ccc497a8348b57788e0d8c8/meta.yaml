@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/5f0fd6731ccc497a8348b57788e0d8c8/artifacts
+end_time: 1785280260244
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 5f0fd6731ccc497a8348b57788e0d8c8
+run_name: clumsy-pug-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785280245069
+status: 3
+tags: []
+user_id: sheri

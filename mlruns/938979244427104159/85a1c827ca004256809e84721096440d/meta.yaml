@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/85a1c827ca004256809e84721096440d/artifacts
+end_time: 1784178676156
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 85a1c827ca004256809e84721096440d
+run_name: gifted-panda-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784178658413
+status: 3
+tags: []
+user_id: sheri

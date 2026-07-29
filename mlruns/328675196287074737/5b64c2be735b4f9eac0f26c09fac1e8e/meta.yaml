@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/5b64c2be735b4f9eac0f26c09fac1e8e/artifacts
+end_time: 1785280227690
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 5b64c2be735b4f9eac0f26c09fac1e8e
+run_name: smiling-dolphin-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785280221246
+status: 3
+tags: []
+user_id: sheri

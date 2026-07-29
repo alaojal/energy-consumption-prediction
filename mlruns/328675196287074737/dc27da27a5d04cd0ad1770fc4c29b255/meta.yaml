@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/dc27da27a5d04cd0ad1770fc4c29b255/artifacts
+end_time: 1783952905128
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: dc27da27a5d04cd0ad1770fc4c29b255
+run_name: bright-stork-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952896411
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/aee597f09a084c1790bf2ba50fed80d7/artifacts
+end_time: 1783878497451
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: aee597f09a084c1790bf2ba50fed80d7
+run_name: debonair-stag-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783878477433
+status: 3
+tags: []
+user_id: sheri

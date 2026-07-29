@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/bed7c1a2f4074fa595f1e2e9159822bb/artifacts
+end_time: 1783879952534
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: bed7c1a2f4074fa595f1e2e9159822bb
+run_name: calm-calf-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783879940448
+status: 3
+tags: []
+user_id: sheri

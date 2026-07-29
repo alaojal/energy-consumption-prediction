@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/35c97739cba74166844f61cb129ccdd1/artifacts
+end_time: 1785280849209
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 35c97739cba74166844f61cb129ccdd1
+run_name: nosy-snake-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785280842404
+status: 3
+tags: []
+user_id: sheri

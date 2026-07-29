@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/d99e77c79eb44c39861aeabf7fb5dce2/artifacts
+end_time: 1783952194693
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: d99e77c79eb44c39861aeabf7fb5dce2
+run_name: nebulous-hawk-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952190631
+status: 3
+tags: []
+user_id: sheri

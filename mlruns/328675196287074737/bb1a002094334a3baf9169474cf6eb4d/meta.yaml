@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/bb1a002094334a3baf9169474cf6eb4d/artifacts
+end_time: 1784177660011
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: bb1a002094334a3baf9169474cf6eb4d
+run_name: glamorous-robin-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784177643935
+status: 3
+tags: []
+user_id: sheri

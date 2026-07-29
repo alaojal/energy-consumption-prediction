@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/497f5902c4064635955364c6b26bbfad/artifacts
+end_time: 1783879919620
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 497f5902c4064635955364c6b26bbfad
+run_name: learned-shrimp-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783879907611
+status: 3
+tags: []
+user_id: sheri

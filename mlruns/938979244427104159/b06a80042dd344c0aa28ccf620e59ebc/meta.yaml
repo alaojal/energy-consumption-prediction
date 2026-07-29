@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/b06a80042dd344c0aa28ccf620e59ebc/artifacts
+end_time: 1785281138393
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: b06a80042dd344c0aa28ccf620e59ebc
+run_name: capricious-bass-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785281118744
+status: 3
+tags: []
+user_id: sheri

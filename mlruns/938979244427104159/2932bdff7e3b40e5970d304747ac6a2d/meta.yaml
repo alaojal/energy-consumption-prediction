@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/2932bdff7e3b40e5970d304747ac6a2d/artifacts
+end_time: 1785281038574
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 2932bdff7e3b40e5970d304747ac6a2d
+run_name: colorful-fowl-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785281006039
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/eb7f322690594c1f89fa9824da097579/artifacts
+end_time: 1785280354589
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: eb7f322690594c1f89fa9824da097579
+run_name: rogue-crane-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785280330613
+status: 3
+tags: []
+user_id: sheri

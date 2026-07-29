@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/f8e8562eb4d8406d9ead8b64a32a978e/artifacts
+end_time: 1784178257149
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: f8e8562eb4d8406d9ead8b64a32a978e
+run_name: sincere-squid-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784178255449
+status: 3
+tags: []
+user_id: sheri

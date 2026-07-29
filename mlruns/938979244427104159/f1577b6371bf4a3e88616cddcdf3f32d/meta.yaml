@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/f1577b6371bf4a3e88616cddcdf3f32d/artifacts
+end_time: 1784178260534
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: f1577b6371bf4a3e88616cddcdf3f32d
+run_name: victorious-squid-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784178258820
+status: 3
+tags: []
+user_id: sheri

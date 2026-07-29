@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/16ca82af0cc041df8a5b8f3425c1a74a/artifacts
+end_time: 1784587593290
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 16ca82af0cc041df8a5b8f3425c1a74a
+run_name: puzzled-crane-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784587584436
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/af5dc7e51f514b5f98aa6d05913b7e59/artifacts
+end_time: 1784137198551
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: af5dc7e51f514b5f98aa6d05913b7e59
+run_name: persistent-sow-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784137196105
+status: 3
+tags: []
+user_id: sheri

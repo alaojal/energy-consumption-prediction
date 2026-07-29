@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/3045748bd988469abd5186ac0175198b/artifacts
+end_time: 1783952822966
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 3045748bd988469abd5186ac0175198b
+run_name: rumbling-gnu-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952808306
+status: 3
+tags: []
+user_id: sheri

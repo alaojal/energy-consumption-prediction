@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737
+creation_time: 1783878418765
+effective_trace_archival_retention: null
+experiment_id: '328675196287074737'
+last_update_time: 1783878418765
+lifecycle_stage: active
+name: GradientBoostingRegressor_energy
+trace_location: null
+workspace: default

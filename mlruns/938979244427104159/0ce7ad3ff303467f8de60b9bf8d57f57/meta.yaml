@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/0ce7ad3ff303467f8de60b9bf8d57f57/artifacts
+end_time: 1785281050799
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 0ce7ad3ff303467f8de60b9bf8d57f57
+run_name: stately-wasp-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785281038593
+status: 3
+tags: []
+user_id: sheri

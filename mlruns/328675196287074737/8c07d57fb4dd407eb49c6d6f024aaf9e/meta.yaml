@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/8c07d57fb4dd407eb49c6d6f024aaf9e/artifacts
+end_time: 1783952896386
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 8c07d57fb4dd407eb49c6d6f024aaf9e
+run_name: placid-wren-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952883382
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/fc4f072da62746fdbb50426af7cadf8e/artifacts
+end_time: 1783952868279
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: fc4f072da62746fdbb50426af7cadf8e
+run_name: traveling-fowl-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952848178
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/d4624fd3d0574c1ab1a4f403e9711d81/artifacts
+end_time: 1784137214350
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: d4624fd3d0574c1ab1a4f403e9711d81
+run_name: stately-ram-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784137211903
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/062b953fe296480685a466b8d4dbc17e/artifacts
+end_time: 1783952798409
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 062b953fe296480685a466b8d4dbc17e
+run_name: silent-smelt-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952787397
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/e7eb203823ef48ad85f04989b870184f/artifacts
+end_time: 1785280406751
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: e7eb203823ef48ad85f04989b870184f
+run_name: receptive-ape-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785280386620
+status: 3
+tags: []
+user_id: sheri

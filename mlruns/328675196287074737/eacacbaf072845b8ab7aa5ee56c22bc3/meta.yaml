@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/eacacbaf072845b8ab7aa5ee56c22bc3/artifacts
+end_time: 1783951968665
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: eacacbaf072845b8ab7aa5ee56c22bc3
+run_name: nebulous-conch-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783951958499
+status: 4
+tags: []
+user_id: sheri

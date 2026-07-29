@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/e78654afb50d4b0590c13a1b124901cb/artifacts
+end_time: 1783878477427
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: e78654afb50d4b0590c13a1b124901cb
+run_name: hilarious-shrew-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783878464181
+status: 3
+tags: []
+user_id: sheri

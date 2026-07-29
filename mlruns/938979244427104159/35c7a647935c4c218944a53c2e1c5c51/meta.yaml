@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/35c7a647935c4c218944a53c2e1c5c51/artifacts
+end_time: 1784178249906
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 35c7a647935c4c218944a53c2e1c5c51
+run_name: monumental-lark-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784178248014
+status: 3
+tags: []
+user_id: sheri

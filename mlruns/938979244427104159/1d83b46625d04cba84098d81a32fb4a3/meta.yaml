@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/1d83b46625d04cba84098d81a32fb4a3/artifacts
+end_time: 1784587358356
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 1d83b46625d04cba84098d81a32fb4a3
+run_name: delightful-snail-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784587352214
+status: 3
+tags: []
+user_id: sheri

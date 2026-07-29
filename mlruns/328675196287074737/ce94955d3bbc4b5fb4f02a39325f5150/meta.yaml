@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/ce94955d3bbc4b5fb4f02a39325f5150/artifacts
+end_time: 1783878551847
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: ce94955d3bbc4b5fb4f02a39325f5150
+run_name: mysterious-ram-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783878538554
+status: 3
+tags: []
+user_id: sheri

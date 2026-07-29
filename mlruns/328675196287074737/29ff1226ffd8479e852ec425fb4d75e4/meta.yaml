@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/29ff1226ffd8479e852ec425fb4d75e4/artifacts
+end_time: 1783952238702
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 29ff1226ffd8479e852ec425fb4d75e4
+run_name: traveling-gnat-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952227451
+status: 3
+tags: []
+user_id: sheri

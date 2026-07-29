@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/c04d95b626bc47399299253600d8dded/artifacts
+end_time: 1785280453522
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: c04d95b626bc47399299253600d8dded
+run_name: youthful-goose-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785280442336
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/75d2442aafb24c378ce1a66351103927/artifacts
+end_time: 1783878439953
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 75d2442aafb24c378ce1a66351103927
+run_name: thundering-smelt-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783878419129
+status: 3
+tags: []
+user_id: sheri

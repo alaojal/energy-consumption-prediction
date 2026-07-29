@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/03d639d81e854aa0a6aa89b03494f46d/artifacts
+end_time: 1784587474746
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 03d639d81e854aa0a6aa89b03494f46d
+run_name: salty-gnat-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784587457696
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/151c2e65c2d340b092523b59d1447ed0/artifacts
+end_time: 1783880219802
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 151c2e65c2d340b092523b59d1447ed0
+run_name: powerful-rook-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783880210537
+status: 3
+tags: []
+user_id: sheri

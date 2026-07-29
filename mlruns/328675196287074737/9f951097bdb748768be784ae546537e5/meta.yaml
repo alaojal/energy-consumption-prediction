@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/9f951097bdb748768be784ae546537e5/artifacts
+end_time: 1784177643926
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 9f951097bdb748768be784ae546537e5
+run_name: melodic-crow-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784177615622
+status: 3
+tags: []
+user_id: sheri

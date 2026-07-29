@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/9d4b28bf689d475697d65521bc36064e/artifacts
+end_time: 1784179071529
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 9d4b28bf689d475697d65521bc36064e
+run_name: rare-grub-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784179039869
+status: 3
+tags: []
+user_id: sheri

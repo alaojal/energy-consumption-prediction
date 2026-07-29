@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/ff41e012901c4c1db243e38b5e4b2725/artifacts
+end_time: 1784587493291
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: ff41e012901c4c1db243e38b5e4b2725
+run_name: carefree-bear-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784587474753
+status: 3
+tags: []
+user_id: sheri

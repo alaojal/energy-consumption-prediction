@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/f15f933a61534cea88dbcef253df7832/artifacts
+end_time: 1783878655254
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: f15f933a61534cea88dbcef253df7832
+run_name: dapper-wren-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783878625577
+status: 3
+tags: []
+user_id: sheri

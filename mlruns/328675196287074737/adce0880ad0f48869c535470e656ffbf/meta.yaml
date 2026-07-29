@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/adce0880ad0f48869c535470e656ffbf/artifacts
+end_time: 1783880198944
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: adce0880ad0f48869c535470e656ffbf
+run_name: rogue-roo-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783880180856
+status: 3
+tags: []
+user_id: sheri

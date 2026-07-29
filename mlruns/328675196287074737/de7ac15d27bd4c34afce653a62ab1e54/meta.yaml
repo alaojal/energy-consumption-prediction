@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/de7ac15d27bd4c34afce653a62ab1e54/artifacts
+end_time: 1783952787390
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: de7ac15d27bd4c34afce653a62ab1e54
+run_name: classy-quail-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952779947
+status: 3
+tags: []
+user_id: sheri

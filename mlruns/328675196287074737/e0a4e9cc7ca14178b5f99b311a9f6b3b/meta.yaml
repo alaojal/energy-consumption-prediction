@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/e0a4e9cc7ca14178b5f99b311a9f6b3b/artifacts
+end_time: 1783879690530
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: e0a4e9cc7ca14178b5f99b311a9f6b3b
+run_name: inquisitive-newt-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783879681560
+status: 3
+tags: []
+user_id: sheri

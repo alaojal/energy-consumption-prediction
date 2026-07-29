@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/fec2de506e5344db8237c007e63df131/artifacts
+end_time: 1784587457684
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: fec2de506e5344db8237c007e63df131
+run_name: bedecked-whale-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784587437499
+status: 3
+tags: []
+user_id: sheri

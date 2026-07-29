@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/aa6ca16599024360bf66dca3ed309c6e/artifacts
+end_time: 1785280386602
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: aa6ca16599024360bf66dca3ed309c6e
+run_name: sedate-snipe-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785280369053
+status: 3
+tags: []
+user_id: sheri

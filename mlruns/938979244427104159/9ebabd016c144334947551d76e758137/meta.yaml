@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/9ebabd016c144334947551d76e758137/artifacts
+end_time: 1785281118724
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: 9ebabd016c144334947551d76e758137
+run_name: mysterious-pig-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785281100736
+status: 3
+tags: []
+user_id: sheri

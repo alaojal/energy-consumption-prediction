@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/80e6f3ddfc75428c89a3f195d5832f9e/artifacts
+end_time: 1783879270468
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 80e6f3ddfc75428c89a3f195d5832f9e
+run_name: best_GradientBoostingRegressor_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783879270445
+status: 4
+tags: []
+user_id: sheri

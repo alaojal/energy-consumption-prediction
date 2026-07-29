@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/c3dfbea850a441a2b92cc96c862a37b6/artifacts
+end_time: 1785281100714
+entry_point_name: ''
+experiment_id: '938979244427104159'
+lifecycle_stage: active
+run_id: c3dfbea850a441a2b92cc96c862a37b6
+run_name: abundant-asp-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785281076141
+status: 3
+tags: []
+user_id: sheri

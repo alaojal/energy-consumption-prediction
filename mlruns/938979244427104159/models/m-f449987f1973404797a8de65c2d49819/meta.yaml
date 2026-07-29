@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/938979244427104159/models/m-f449987f1973404797a8de65c2d49819/artifacts
+creation_timestamp: 1784137240552
+experiment_id: '938979244427104159'
+last_updated_timestamp: 1784137266805
+model_id: m-f449987f1973404797a8de65c2d49819
+model_type: null
+name: model
+source_run_id: 29d5123215c04ce58215abbccc23418d
+status: 2
+status_message: null

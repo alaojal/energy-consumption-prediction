@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/169b46e9cd44440595e4e378379e76e0/artifacts
+end_time: 1783952170048
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 169b46e9cd44440595e4e378379e76e0
+run_name: capable-elk-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952161497
+status: 3
+tags: []
+user_id: sheri

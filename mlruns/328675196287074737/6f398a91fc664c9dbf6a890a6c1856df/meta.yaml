@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/6f398a91fc664c9dbf6a890a6c1856df/artifacts
+end_time: 1783952848158
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 6f398a91fc664c9dbf6a890a6c1856df
+run_name: fearless-ram-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952838787
+status: 3
+tags: []
+user_id: sheri

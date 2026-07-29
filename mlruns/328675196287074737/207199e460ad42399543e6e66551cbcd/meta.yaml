@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/207199e460ad42399543e6e66551cbcd/artifacts
+end_time: 1783880210531
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 207199e460ad42399543e6e66551cbcd
+run_name: flawless-deer-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783880198951
+status: 3
+tags: []
+user_id: sheri

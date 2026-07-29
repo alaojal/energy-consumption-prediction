@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/70b7805d919b4724ac866a18a3c6d41c/artifacts
+end_time: 1784177792587
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 70b7805d919b4724ac866a18a3c6d41c
+run_name: lyrical-zebra-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784177780538
+status: 3
+tags: []
+user_id: sheri

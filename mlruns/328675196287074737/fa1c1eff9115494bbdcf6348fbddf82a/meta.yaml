@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/fa1c1eff9115494bbdcf6348fbddf82a/artifacts
+end_time: 1785280473150
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: fa1c1eff9115494bbdcf6348fbddf82a
+run_name: marvelous-perch-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785280466134
+status: 3
+tags: []
+user_id: sheri

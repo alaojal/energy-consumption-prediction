@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/bcbd518b3f954a5fa2cb94e9bd192a0b/artifacts
+end_time: 1783879879572
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: bcbd518b3f954a5fa2cb94e9bd192a0b
+run_name: awesome-snake-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783879871351
+status: 3
+tags: []
+user_id: sheri

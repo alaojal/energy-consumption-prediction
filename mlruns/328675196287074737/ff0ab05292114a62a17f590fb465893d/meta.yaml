@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/ff0ab05292114a62a17f590fb465893d/artifacts
+end_time: 1783878507143
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: ff0ab05292114a62a17f590fb465893d
+run_name: redolent-stoat-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783878497457
+status: 3
+tags: []
+user_id: sheri

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/c33073d3a5c24f5c83d63ef2cc0e620c/artifacts
+end_time: 1784177681851
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: c33073d3a5c24f5c83d63ef2cc0e620c
+run_name: beautiful-grub-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784177660022
+status: 3
+tags: []
+user_id: sheri

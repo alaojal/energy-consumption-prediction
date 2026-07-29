@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/b35762f1cd0449288e19456755154b9d/artifacts
+end_time: 1783952161488
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: b35762f1cd0449288e19456755154b9d
+run_name: gregarious-fowl-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952137918
+status: 3
+tags: []
+user_id: sheri

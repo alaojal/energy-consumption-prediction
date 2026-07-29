@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/75571746fc1441068316df2f21183a85/artifacts
+end_time: 1783952200726
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 75571746fc1441068316df2f21183a85
+run_name: fortunate-gull-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783952194707
+status: 3
+tags: []
+user_id: sheri

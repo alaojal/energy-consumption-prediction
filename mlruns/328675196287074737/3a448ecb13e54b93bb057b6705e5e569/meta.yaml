@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/3a448ecb13e54b93bb057b6705e5e569/artifacts
+end_time: 1785280466117
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: 3a448ecb13e54b93bb057b6705e5e569
+run_name: kindly-crane-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785280453537
+status: 3
+tags: []
+user_id: sheri

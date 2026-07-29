@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sheri/Desktop/machinlearning/mlruns/328675196287074737/f72e16e327b4425e9e713d6049b78de6/artifacts
+end_time: 1783880158777
+entry_point_name: ''
+experiment_id: '328675196287074737'
+lifecycle_stage: active
+run_id: f72e16e327b4425e9e713d6049b78de6
+run_name: popular-elk-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783880126053
+status: 3
+tags: []
+user_id: sheri
