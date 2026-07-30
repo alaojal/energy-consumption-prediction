@@ -1,21 +1,30 @@
-# 1. Use the official lightweight Python base image
+# Use the official lightweight Python image
 FROM python:3.11-slim
 
-# 2. Set working directory inside the container
+# Prevent Python from buffering stdout/stderr
+ENV PYTHONUNBUFFERED=1
+
+# Set working directory
 WORKDIR /app
 
-# 3. Copy only dependency file first (for Docker caching)
+# Copy dependency file first for better layer caching
 COPY requirements.txt .
 
-# 4. Install uv (dependency manager)
-RUN pip Install uv
-RUN uv sync --frozen --no-dev
+# Install project dependencies
+RUN pip install --no-cache-dir -r requirements.txt
 
-# 5. Copy the entire project into the image
-COPY ..
+# Copy application source code
+COPY . .
 
-# 6. Expose FASTAPI to default port
-Expose 8000
+# Expose FastAPI port
+EXPOSE 8000
 
-# 7. Command to run API with Uvicorn
-CMD ["uv", "run", "uvicorn", "src.app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Start the application
+CMD [
+    "uvicorn",
+    "src.app.main:app",
+    "--host",
+    "0.0.0.0",
+    "--port",
+    "8000"
+]

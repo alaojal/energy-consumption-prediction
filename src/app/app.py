@@ -7,7 +7,6 @@ sys.path.append(ROOT)
 import streamlit as st
 import pandas as pd
 
-#from src.inference_pipeline.inference import predict
 from src.inference_pipeline.inference import predict
 
 # =========================================
@@ -39,7 +38,7 @@ This analytics portal leverages machine learning to predict hourly energy consum
 # ==========================================
 # Energy Consumption Prediction
 # ==========================================
-st.header("💡Energy Consumption Prediction")
+st.header("🔦Energy Consumption Prediction")
 st.markdown("""
 **Objective**
 Predict hourly energy consumption using the following engineered date features:
