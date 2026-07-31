@@ -86,7 +86,7 @@ def tune_model(
 
         with mlflow.start_run(nested=True):
             model = GradientBoostingRegressor(**params)
-            model.fit(X_train, y_train)
+            model.fit(X_train, y_train) 
 
             y_pred = model.predict(X_eval)
             rmse = float(np.sqrt(mean_squared_error(y_eval, y_pred)))
