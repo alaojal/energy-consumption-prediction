@@ -195,7 +195,7 @@ streamlit run src/app/app.py
 
 ## Author
 
-**Ola Ajala**
+**Sheriff Ajala**
 
 Machine Learning Engineer | Data Scientist | Operations Analytics Professional
 
